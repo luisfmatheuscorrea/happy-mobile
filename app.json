@@ -5,6 +5,14 @@
     "name": "tests-mobile",
     "slug": "tests-mobile",
     "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#17BDCD"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
